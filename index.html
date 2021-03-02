@@ -7,6 +7,35 @@
 
 <h1>This is a Heading</h1>
 <p>This is a paragraph.</p>
+  <div id="mbt-widget-container-1134aae3ca6e718ba98542f0adea5870">&nbsp;</div>
+	<script type="text/javascript">
+		var customServiceUrl = 'https://widgets.baskethotel.com/';
+	</script>
+<script type="text/javascript" src="https://widgets.baskethotel.com/static/scripts/api/api.js"></script>
+<script type="text/javascript" src="https://widgets.baskethotel.com/static/api/b9680714b4026e011e13a43ccb7dfa201932958c/script.js"></script>
+<script type="text/javascript">
+	var request = new MBT.API.Widgets.RenderRequest();
+	var widget = new MBT.API.Widgets.Widget();
+	widget.setContainer('mbt-widget-container-1134aae3ca6e718ba98542f0adea5870');
+	widget.setWidgetId(MBT.API.Widgets.CLUB_FULL_VIEW_WIDGET);
+	widget.setParam('club_id', 32707);
+	widget.setParam('roster_link_visible', 1);
+	widget.setParam('roster_link_handler', 'navigateClubRoster');
+	widget.setParam('standings_link_visible', 1);
+	widget.setParam('standings_link_handler', 'navigateClubStandings');
+	widget.setParam('schedule_link_visible', 1);
+	widget.setParam('schedule_link_handler', 'navigateClubSchedule');
+	widget.setParam('full_schedule_link_visible', 1);
+	widget.setParam('full_schedule_link_handler', 'navigateClubFullSchedule');
+	widget.setParam('player_link_visible', 1);
+	widget.setParam('player_link_handler', 'navigateClubPlayer');
+	widget.setParam('team_link_visible', 1);
+	widget.setParam('team_link_handler', 'navigateClubTeam');
+	widget.setParam('game_link_visible', 1);
+	widget.setParam('game_link_handler', 'navigateClubGame');
+	request.addWidget(widget);
+	request.render();
+</script>
 
 </body>
 </html>
