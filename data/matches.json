@@ -397,17 +397,6 @@
             "tulos": "0-0"
         },
         {
-            "id": "5368215",
-            "pvä": "Sunnuntai",
-            "pvm": "2021-04-11",
-            "Sarja": "13-vuotiaat pojat III divisioona",
-            "aika": "10:15:00",
-            "kotijoukkue": "Alppila Basket Ry",
-            "vierasjoukkue": "HNMKY",
-            "pelipaikka": "Alppilan lukio",
-            "tulos": "0-0"
-        },
-        {
             "id": "5368835",
             "pvä": "Lauantai",
             "pvm": "2021-04-17",
@@ -416,72 +405,6 @@
             "kotijoukkue": "AlBa miehet",
             "vierasjoukkue": "Vantaan Miehet",
             "pelipaikka": "Töölön Kisahalli, A-puoli",
-            "tulos": "0-0"
-        },
-        {
-            "id": "5368143",
-            "pvä": "Sunnuntai",
-            "pvm": "2021-04-25",
-            "Sarja": "13-vuotiaat pojat III divisioona",
-            "aika": "10:15:00",
-            "kotijoukkue": "Alppila Basket Ry",
-            "vierasjoukkue": "PuHu Super",
-            "pelipaikka": "Alppilan lukio",
-            "tulos": "0-0"
-        },
-        {
-            "id": "5368005",
-            "pvä": "Sunnuntai",
-            "pvm": "2021-05-02",
-            "Sarja": "13-vuotiaat pojat I divisioona",
-            "aika": "10:15:00",
-            "kotijoukkue": "Alppila Basket Ry",
-            "vierasjoukkue": "Honka",
-            "pelipaikka": "Alppilan lukio",
-            "tulos": "0-0"
-        },
-        {
-            "id": "5368017",
-            "pvä": "Sunnuntai",
-            "pvm": "2021-05-09",
-            "Sarja": "13-vuotiaat pojat I divisioona",
-            "aika": "10:15:00",
-            "kotijoukkue": "Alppila Basket Ry",
-            "vierasjoukkue": "Pussihukat",
-            "pelipaikka": "Alppilan lukio",
-            "tulos": "0-0"
-        },
-        {
-            "id": "5368037",
-            "pvä": "Perjantai",
-            "pvm": "2021-05-14",
-            "Sarja": "13-vuotiaat pojat I divisioona",
-            "aika": "17:15:00",
-            "kotijoukkue": "Alppila Basket Ry",
-            "vierasjoukkue": "EBT White",
-            "pelipaikka": "Alppilan lukio",
-            "tulos": "0-0"
-        },
-        {
-            "id": "5368185",
-            "pvä": "Sunnuntai",
-            "pvm": "2021-05-16",
-            "Sarja": "13-vuotiaat pojat III divisioona",
-            "aika": "10:15:00",
-            "kotijoukkue": "Alppila Basket Ry",
-            "vierasjoukkue": "Honka",
-            "pelipaikka": "Alppilan lukio",
-            "tulos": "0-0"
-        },
-        {
-            "id": "5368195",
-            "pvä": "Sunnuntai",
-            "pvm": "2021-05-23",
-            "Sarja": "13-vuotiaat pojat III divisioona",
-            "aika": "10:15:00",
-            "kotijoukkue": "Alppila Basket Ry",
-            "vierasjoukkue": "Beat Basket Yellow",
-            "pelipaikka": "Alppilan lukio",
             "tulos": "0-0"
         }
     ]
