@@ -364,6 +364,17 @@
             "tulos": "0-0"
         },
         {
+            "id": "5476669",
+            "pvä": "Lauantai",
+            "pvm": "2021-09-18",
+            "Sarja": "Miesten III divisioona",
+            "aika": "18:20:00",
+            "kotijoukkue": "FC Passe",
+            "vierasjoukkue": "Seniors",
+            "pelipaikka": "Kampin liikuntakeskus",
+            "tulos": "0-0"
+        },
+        {
             "id": "5476099",
             "pvä": "Sunnuntai",
             "pvm": "2021-09-19",
@@ -460,6 +471,17 @@
             "kotijoukkue": "Kotkajengi",
             "vierasjoukkue": "HypoII",
             "pelipaikka": "Pirkkolan palloilluhalli",
+            "tulos": "0-0"
+        },
+        {
+            "id": "5476695",
+            "pvä": "Lauantai",
+            "pvm": "2021-10-02",
+            "Sarja": "Miesten III divisioona",
+            "aika": "18:20:00",
+            "kotijoukkue": "FC Passe",
+            "vierasjoukkue": "HNMKY Los Pakilas Lakers",
+            "pelipaikka": "Kampin liikuntakeskus",
             "tulos": "0-0"
         },
         {
@@ -584,6 +606,17 @@
             "tulos": "0-0"
         },
         {
+            "id": "5476721",
+            "pvä": "Lauantai",
+            "pvm": "2021-10-30",
+            "Sarja": "Miesten III divisioona",
+            "aika": "18:20:00",
+            "kotijoukkue": "FC Passe",
+            "vierasjoukkue": "LePy",
+            "pelipaikka": "Kampin liikuntakeskus",
+            "tulos": "0-0"
+        },
+        {
             "id": "5476299",
             "pvä": "Sunnuntai",
             "pvm": "2021-10-31",
@@ -702,6 +735,17 @@
             "kotijoukkue": "ToPoLa Top Gun",
             "vierasjoukkue": "Kisis ry",
             "pelipaikka": "Lauttasaaren Yhteiskoulu_vanha",
+            "tulos": "0-0"
+        },
+        {
+            "id": "5476747",
+            "pvä": "Lauantai",
+            "pvm": "2021-11-13",
+            "Sarja": "Miesten III divisioona",
+            "aika": "18:20:00",
+            "kotijoukkue": "FC Passe",
+            "vierasjoukkue": "Kruununhaka Seamen",
+            "pelipaikka": "Kampin liikuntakeskus",
             "tulos": "0-0"
         },
         {
@@ -834,6 +878,17 @@
             "kotijoukkue": "Kotkajengi",
             "vierasjoukkue": "Aalto-Basket",
             "pelipaikka": "Pirkkolan palloilluhalli",
+            "tulos": "0-0"
+        },
+        {
+            "id": "5476773",
+            "pvä": "Lauantai",
+            "pvm": "2021-12-11",
+            "Sarja": "Miesten III divisioona",
+            "aika": "18:20:00",
+            "kotijoukkue": "FC Passe",
+            "vierasjoukkue": "ToPoLa Top Gun",
+            "pelipaikka": "Kampin liikuntakeskus",
             "tulos": "0-0"
         },
         {
@@ -980,6 +1035,17 @@
             "tulos": "0-0"
         },
         {
+            "id": "5476813",
+            "pvä": "Lauantai",
+            "pvm": "2022-01-22",
+            "Sarja": "Miesten III divisioona",
+            "aika": "18:20:00",
+            "kotijoukkue": "FC Passe",
+            "vierasjoukkue": "MuKi III",
+            "pelipaikka": "Kampin liikuntakeskus",
+            "tulos": "0-0"
+        },
+        {
             "id": "5476553",
             "pvä": "Sunnuntai",
             "pvm": "2022-01-23",
@@ -1043,6 +1109,17 @@
             "kotijoukkue": "ToPoLa Top Gun",
             "vierasjoukkue": "HNMKY Los Pakilas Lakers",
             "pelipaikka": "Lauttasaaren Yhteiskoulu_vanha",
+            "tulos": "0-0"
+        },
+        {
+            "id": "5476839",
+            "pvä": "Lauantai",
+            "pvm": "2022-02-05",
+            "Sarja": "Miesten III divisioona",
+            "aika": "18:20:00",
+            "kotijoukkue": "FC Passe",
+            "vierasjoukkue": "HNMKY Panthers",
+            "pelipaikka": "Kampin liikuntakeskus",
             "tulos": "0-0"
         },
         {
@@ -1134,6 +1211,17 @@
             "tulos": "0-0"
         },
         {
+            "id": "5476865",
+            "pvä": "Lauantai",
+            "pvm": "2022-03-05",
+            "Sarja": "Miesten III divisioona",
+            "aika": "18:20:00",
+            "kotijoukkue": "FC Passe",
+            "vierasjoukkue": "Kisis ry",
+            "pelipaikka": "Kampin liikuntakeskus",
+            "tulos": "0-0"
+        },
+        {
             "id": "5477091",
             "pvä": "Sunnuntai",
             "pvm": "2022-03-06",
@@ -1200,6 +1288,17 @@
             "tulos": "0-0"
         },
         {
+            "id": "5476891",
+            "pvä": "Lauantai",
+            "pvm": "2022-03-19",
+            "Sarja": "Miesten III divisioona",
+            "aika": "18:20:00",
+            "kotijoukkue": "FC Passe",
+            "vierasjoukkue": "JaKaRi",
+            "pelipaikka": "Kampin liikuntakeskus",
+            "tulos": "0-0"
+        },
+        {
             "id": "5477115",
             "pvä": "Sunnuntai",
             "pvm": "2022-03-20",
@@ -1230,6 +1329,17 @@
             "kotijoukkue": "Kruununhaka Seamen",
             "vierasjoukkue": "Sykki Hunks",
             "pelipaikka": "Katajanokan liikuntahalli",
+            "tulos": "0-0"
+        },
+        {
+            "id": "5476903",
+            "pvä": "Lauantai",
+            "pvm": "2022-03-26",
+            "Sarja": "Miesten III divisioona",
+            "aika": "18:20:00",
+            "kotijoukkue": "FC Passe",
+            "vierasjoukkue": "Dynamo",
+            "pelipaikka": "Kampin liikuntakeskus",
             "tulos": "0-0"
         },
         {
@@ -1318,6 +1428,17 @@
             "kotijoukkue": "Kotkajengi",
             "vierasjoukkue": "Tapiolan Honka 00ers",
             "pelipaikka": "Pirkkolan palloilluhalli",
+            "tulos": "0-0"
+        },
+        {
+            "id": "5476919",
+            "pvä": "Lauantai",
+            "pvm": "2022-04-09",
+            "Sarja": "Miesten III divisioona",
+            "aika": "18:20:00",
+            "kotijoukkue": "FC Passe",
+            "vierasjoukkue": "Sykki Hunks",
+            "pelipaikka": "Kampin liikuntakeskus",
             "tulos": "0-0"
         },
         {
