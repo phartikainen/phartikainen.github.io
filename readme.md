@@ -1,1 +1,1 @@
-## Github Pages API for Alppilabasket.fi
+## Basketball Results Bot Github pages
